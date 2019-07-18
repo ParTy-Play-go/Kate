@@ -8,5 +8,5 @@ if (dat1 == "Норм" , "Класс" , "коооо" , "Супер"):
 print("Введи команду!")
 dat2 = input ()
 if (dat2 == "FeedBack" ,"Feed Back")
-    webbrowser.open(https://github.com/ParTy-Play-go/ChatBot)
+    webbrowser.open(https://github.com/ParTy-Play-go/Kate)
 time.sleep(10)
